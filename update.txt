@@ -1,6 +1,4 @@
 <version 0.2.0>
-\Transtales\en.json https://raw.githubusercontent.com/leandrolsouza/public/main/en.json
-\Transtales\ptbr.json https://raw.githubusercontent.com/leandrolsouza/public/main/ptbr.json
 \data\QuestsEN.txt https://raw.githubusercontent.com/leandrolsouza/public/main/QuestsEN.txt
 \data\QuestsPT.txt https://raw.githubusercontent.com/leandrolsouza/public/main/QuestsPT.txt
 <End of Version>
