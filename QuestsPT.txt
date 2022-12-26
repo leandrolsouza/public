@@ -1,0 +1,182 @@
+Text that appears outside of the <quest></quest> tags will not display anywhere and can be used for notes if required.
+
+// <quest id:Name of Quest|difficulty|catId>
+// OBJECTIVES separated by commas (leave this blank to not use objectives for a quest)
+// RESOLUTIONS separated by commas use | for line breaks (leave this blank if not using resolutions for a quest)
+// quest description
+// quest description
+// quest description
+// </quest>
+
+<quest 1:Despertando a magia!|1|0>
+Aprenda uma magia
+
+\c[3]\N[1]\c[0] e uma maga, mais ainda não sabe disso, 
+ajuda ela a despertar a magia dentro dela
+
+Recompensa  \c[17]10XP
+</quest>
+
+<quest 2:Arrumar dinheiro|1|0>
+Colete pelo menos \c[2]150\G
+
+Não e bom sair sem dinheiro!
+
+Recompensa  \c[17]10XP
+</quest>
+
+<quest 3:A Invasora|1|0>
+Consiga a \c[14]\ii[49]\c[0] do quarto,Invada o quarto dos irmãos,Investigue
+
+Porque o quarto está trancado?
+
+Recompensa  \c[17]10XP
+</quest>
+
+<quest 4:Quase uma hacker|1|1>
+Consiga a senha,Entre no computador dos irmãos
+
+Mexa no computador enquanto \c[3]\N[10]\c[0] está na cozinha!
+
+Recompensa  \c[17]10XP
+</quest>
+
+
+<quest 5:Será que vai chover?|1|1>
+Acesse o computador do quarto da \c[3]\N[1]\c[0]
+
+Verifique a previsão do tempo!
+
+Recompensa  \c[17]10XP
+</quest>
+
+<quest 6:O que será?|1|0>
+Converse com a sua \c[3]\N[5]\c[0]
+
+Converse e descubra o que ela quer te entregar
+</quest>
+
+<quest 7:A carta|1|0>
+Leia a carta
+
+A curiosidade e muita, leia logo a carta!
+</quest>
+
+<quest 8:Labuta!|1|0>
+Vá trabalhar!
+
+O trabalho dignifica o homem! 
+(e a mulher também) 
+
+Recompensa  \c[17]10XP
+</quest>
+
+<quest 9:Baú vermelho|7|0>
+explore a montanha \c[4]KINKAKU-JI\c[0],encontre o poder para abrir o baú vermelho,abra o báu para ganhar novos poderes
+
+abra o baú vermelho
+
+Recompensa  \c[17]500XP
+</quest>
+
+<quest 10:Baú amarelo|99|0>
+explore a geleira \c[4]DAIGO-JI\c[0],encontre o poder para abrir o baú amarelo,abra o báu para ganhar novos poderes
+
+abra o baú amarelo
+
+Recompensa  \c[17]500XP
+
+<quest 11:Baú verde|99|0>
+explore a floresta \c[4]GINKAKU-JI\c[0],encontre o poder para abrir o baú verde,abra o báu para ganhar novos poderes
+
+abra o baú verde
+
+Recompensa  \c[17]500XP
+</quest>
+
+<quest 12:Baú azul|99|0>
+explore as ruínas da fortaleza \c[4]KIYOMIZU-DERA\c[0],encontre o poder para abrir o baú azul,abra o báu para ganhar novos poderes
+
+abra o baú azul
+
+Recompensa  \c[17]500XP
+</quest>
+
+<quest 13:Atrás do ouro|5|0>
+explore a \c[4]MINA ABANDONADA\c[0]
+
+recolha o máxímo de \G que conseguir
+
+Recompensa  \c[17]100XP
+</quest>
+
+<quest 14:A abóbora especial|8|1>
+Recolha a \c[14]\ii[98]\c[0]
+
+explore a floresta \c[4]GINKAKU-JI\c[0]
+e encontre a \c[14]\ii[98]\c[0]
+
+Recompensa  \c[17]????
+</quest>
+
+<quest 16:Ao regaste|7|1>
+resgate a moça
+
+vá em montanha \c[4]KINKAKU-JI\c[0] e salve a moça perdida
+
+Recompensa  \c[17]100\G
+</quest>
+
+<quest 17:Ilumine!|7|1>
+\c[14]\ii[58]\c[0], \c[14]\ii[59]\c[0], \c[14]\ii[60]\c[0]
+
+cavernas escuras precisam de luz
+procure algo para iluminar o caminho
+
+Recompensa  \c[17]50XP
+</quest>
+
+<quest 18:Diário do mineiro|4|1>
+recupere o \c[14]\ii[93]\c[0], Devolva o \c[14]\ii[93]\c[0]
+
+Ache o diário perdido dentro da \c[4]MINA ABANDONADA\c[0]
+
+Recompensa  \c[17]100\G
+</quest>
+
+<quest 19:Derrote Fiery|25|1>
+lute e derrote o poderoso \c[3]\N[14]\c[0]
+
+em seu repouso, \c[3]\N[14]\c[0] te desafiou para uma luta
+você será capaz de vencer o guerreiro de fogo?
+
+Recompensa  \c[17]???
+</quest>
+
+<quest 20:Ajudante de cozinheiro|15|1>
+\c[14]\ii[96]\c[0], \c[14]\ii[94]\c[0], \c[14]\ii[95]\c[0]
+
+ajude a senhora em \c[4]SHIRAKAWA\c[0] a cozinhar
+o prato favorito do seu marido
+
+Recompensa  \c[17]???
+</quest>
+
+<quest 21:Ajude o lenhador|15|1>
+ache um \c[14]\ii[97]\c[0]
+
+ajude o Kretus em \c[4]SHIRAKAWA\c[0] a terminar
+de cortar a lenha
+
+Recompensa  \c[14]\ii[74]\c[0]
+</quest>
+
+<quest 22:Entre na MINA ABANDONADA|4|0>
+ache uma entrada
+
+seguindo o conselho do mestre \c[3]\N[13]\c[0]
+vá até a \c[4]MINA ABANDONADA\c[0]
+</quest>
+
+
+

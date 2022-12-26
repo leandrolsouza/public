@@ -1,0 +1,182 @@
+Text that appears outside of the <quest></quest> tags will not display anywhere and can be used for notes if required.
+
+// <quest id:Name of Quest|difficulty|catId>
+// OBJECTIVES separated by commas (leave this blank to not use objectives for a quest)
+// RESOLUTIONS separated by commas use | for line breaks (leave this blank if not using resolutions for a quest)
+// quest description
+// quest description
+// quest description
+// </quest>
+
+<quest 1:Awakening the magic|1|0>
+learn a magic
+
+\c[3]\N[1]\c[0] is a mage, but don't know it yet,
+help her awaken the magic within her
+
+Reward \c[17]10XP
+</quest>
+
+<quest 2:Get money|1|0>
+Collect at least \c[2]150\G
+
+It's not good to go out without money!
+
+Reward  \c[17]10XP
+</quest>
+
+<quest 3:The invader|1|0>
+Get the \c[2]key\c[0] to the room,Invade the brothers room,Investigate
+
+Why is the room locked?
+
+Reward  \c[17]10XP
+</quest>
+
+<quest 4:Almost a hacker|1|1>
+Get the password,Enter the brothers computer
+
+Work on the computer while \c[3]\N[10]\c[0] is in the kitchen!
+
+Reward  \c[17]10XP
+</quest>
+
+
+<quest 5:Will it rain?|1|1>
+Access \c[3]\N[1]\c[0]'s room computer 
+
+Check the weather forecast!
+
+Reward  \c[17]10XP
+</quest>
+
+<quest 6:What will it be?|1|0>
+talk to the \c[3]\N[5]\c[0]
+
+Talk and find out what she wants to give you
+</quest>
+
+<quest 7:The letter|1|0>
+read the letter
+
+The curiosity is a lot, read the letter soon!
+</quest>
+
+<quest 8:Workaholic!|1|0>
+Go to work!
+
+The work dignifies the man!
+(and the woman too)
+
+Reward  \c[17]10XP
+</quest>
+
+<quest 9:Red chest|7|0>
+explore the mountain \c[4]KINKAKU-JI\c[0],find the power to open the red chest, open the chest to gain new powers
+
+open the red chest
+
+Reward  \c[17]500XP
+</quest>
+
+<quest 10:Yellow chest|99|0>
+explore the glacier \c[4]DAIGO-JI\c[0],find the power to open the yellow chest, open the chest to gain new powers
+
+open the yellow chest
+
+Reward  \c[17]500XP
+</quest>
+
+<quest 11:Green chest|99|0>
+explore the forest \c[4]Ginkaku-ji\c[0],find the power to open the green chest, open the chest to gain new powers
+
+open the green chest
+
+Reward  \c[17]500XP
+</quest>
+
+<quest 12:Blue chest|99|0>
+explore the ruins of the fortress \c[4]KIYOMIZU-DERA\c[0],find the power to open the blue chest, open the chest to gain new powers
+
+open the blue chest
+
+Reward  \c[17]500XP
+</quest>
+
+<quest 13:Going after the gold|5|0>
+explore the \c[4]ABANDONED MINE\c[0]
+
+collect as many \G as you can
+
+Reward  \c[17]100XP
+</quest>
+
+<quest 14:The special pumpkin|8|1>
+Collect the \c[14]\ii[98]\c[0]
+
+explore the forest \c[4]GINKAKU-JI\c[0]
+and find the \c[14]\ii[98]\c[0]
+
+Reward  \c[17]????
+</quest>
+
+<quest 16:To the rescue|7|1>
+rescue the girl
+
+go in mountain \c[4]KINKAKU-JI\c[0] and save the lost girl
+
+Reward  \c[17]100\G
+</quest>
+
+<quest 17:Light up!|7|1>
+\c[14]\ii[58]\c[0], \c[14]\ii[59]\c[0], \c[14]\ii[60]\c[0]
+
+dark caves need light
+look for something to light the way
+
+Reward  \c[17]50XP
+</quest>
+
+<quest 18:Miner's diary|4|1>
+retrieve the \c[14]\ii[93]\c[0], return the \c[14]\ii[93]\c[0]
+
+Find the lost journal inside \c[4]ABANDONED MINE\c[0]
+
+Reward  \c[17]100 \G
+</quest>
+
+<quest 19:Defeat Fiery|25|1>
+fight and defeat the mighty \c[3]\N[14]\c[0]
+
+in your repose, \c[3]\N[14]\c[0] challenged you to a fight
+will you be able to beat the fire warrior?
+
+Reward  \c[17]???
+</quest>
+
+<quest 20:Cook's help|15|1>
+\c[14]\ii[96]\c[0], \c[14]\ii[94]\c[0], \c[14]\ii[95]\c[0]
+
+help the lady in \c[4]SHIRAKAWA\c[0] to cook
+your husband's favorite dish
+
+Reward  \c[17]???
+</quest>
+
+<quest 21:Help the lumberjack|15|1>
+find a \c[14]\ii[97]\c[0]
+
+help Kretus in \c[4]SHIRAKAWA\c[0] finish
+to cut the wood
+
+Reward  \c[14]\ii[74]\c[0]
+</quest>
+
+<quest 22:Enter the ABANDONED MINE|4|0>
+find an entry
+
+following the advice of the master \c[3]\N[13]\c[0] 
+go to \c[4]ABANDONED MINE\c[0]
+
+Recompensa  \c[17]10XP
+</quest>
