@@ -1,3 +1,11 @@
+<version: 1.0.0>
+/Transtales/en.json https://raw.githubusercontent.com/leandrolsouza/public/main/en.json
+/Transtales/ptbr.json https://raw.githubusercontent.com/leandrolsouza/public/main/ptbr.json
+/data/QuestsEN.txt https://raw.githubusercontent.com/leandrolsouza/public/main/QuestsEN.txt
+/data/QuestsPT.txt https://raw.githubusercontent.com/leandrolsouza/public/main/QuestsPT.txt
+/data/teste.zip https://br.wordpress.org/latest-pt_BR.zip
+<End of Version>
+
 <version: 1.0.1>
 /Transtales/en.json https://raw.githubusercontent.com/leandrolsouza/public/main/en.json
 /Transtales/ptbr.json https://raw.githubusercontent.com/leandrolsouza/public/main/ptbr.json
